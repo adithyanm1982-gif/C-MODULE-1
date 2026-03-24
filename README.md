@@ -1,5 +1,5 @@
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M1
-# IAPR-1- Module 1 - FoC
+# IAPR 1-Module 1-Record Exercises(5) for FoC 2025 Odd
+
 ## 1. Implementation of basic C programs using Literals,Consonants, Variables, Data types.
 ## 2. Implementation of different categories of operators.
 ## Name : ADITHYA NM
@@ -48,9 +48,6 @@ int main() {
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
 
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd
-# IAPR-1- Module 1 - FoC
-
 # Ex.No:2
   Build a C program to display the value of a macro constant and a constant variable.
 # Aim:
@@ -95,9 +92,6 @@ int main() {
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
 
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd
-# IAPR-1- Module 1 - FoC
-
 # Ex.No:3
   Build a C program to demonstrate the use of different data types such as int, float, double, and char, and display their values using printf().
 # Aim:
@@ -137,8 +131,6 @@ int main() {
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd
-# IAPR-1- Module 1 - FoC
 
 # Ex.No:4
   Build a C program to perform arithmetic and bitwise operations on two integers entered by the user. The program should display: Arithmetic operations: addition, subtraction, multiplication, division, and remainder. Bitwise operations: AND, OR, XOR, left shift, right shift, and NOT.
@@ -207,9 +199,6 @@ int main() {
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
-
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd
-# IAPR-1- Module 1 - FoC
 
 # Ex.No:5
   Develop a C program to check whether a given character is a vowel, consonant, digit, or special symbol using the ternary operator.
