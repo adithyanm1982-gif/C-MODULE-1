@@ -2,6 +2,8 @@
 # IAPR-1- Module 1 - FoC
 ## 1. Implementation of basic C programs using Literals,Consonants, Variables, Data types.
 ## 2. Implementation of different categories of operators.
+## Name : ADITHYA NM
+## Reg No: 212225040011
 # Ex.No:1
   Build a C program to demonstrate the usage of different types of literals: integer, float, character, and string.  
 # Date : 27/12/2025
