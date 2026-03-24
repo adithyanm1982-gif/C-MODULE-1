@@ -6,7 +6,7 @@
   Build a C program to demonstrate the usage of different types of literals: integer, float, character, and string.  
 # Date : 27/12/2025
 # Aim:
-To build a C program that prints integer, float,character, and string literals on the console using the printf() function.
+To build a C Program that prints integer, float,character, and string literals on the console using the printf() function.
 # Algorithm:
 ### Step 1:
   Start
